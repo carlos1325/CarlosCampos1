@@ -1,4 +1,4 @@
-package com.seguritech.practicafinal;
+package com.seguritech.hospitalTest;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
