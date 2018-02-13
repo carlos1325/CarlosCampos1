@@ -1,11 +1,14 @@
 package com.seguritech.hospital.service;
 
 import com.seguritech.hospital.domain.Rol;
+import org.springframework.stereotype.Service;
+
 import java.util.List;
 
 /**
  * @author Werner
  */
+@Service
 public interface RolService {
 
     List<Rol> findAll();

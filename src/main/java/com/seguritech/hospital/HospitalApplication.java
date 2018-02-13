@@ -1,3 +1,4 @@
+package com.seguritech.hospital;
 
 import com.seguritech.hospital.domain.Personas;
 import com.seguritech.hospital.repository.PersonaRepository;
