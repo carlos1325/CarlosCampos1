@@ -22,7 +22,7 @@ import org.springframework.web.bind.annotation.RestController;
  *
  * @author Werner
  */
-@RestController
+//@RestController
 public class RolController {
 
     @Autowired
